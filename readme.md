@@ -1681,6 +1681,12 @@ Utilities and tools to enhance your Claude workflow.
   - macOS/Linux menubar tray app and distroless container
   - MIT licensed, single static Go binary, no frameworks
 
+- [NoEdgeAI/doc2x-cli-skills](https://github.com/NoEdgeAI/doc2x-cli-skills) ![Stars](https://img.shields.io/github/stars/NoEdgeAI/doc2x-cli-skills?style=flat-square)
+  - Skill for installing, configuring, and operating Doc2X CLI document parsing and translation workflows
+  - Parse PDFs/images, export Markdown/LaTeX/Word/HTML, and process batches of supported files
+  - Requires the separate Doc2X CLI, Node.js >=22, and a Doc2X account
+  - Cloud processing follows service quotas/subscriptions/credits; MIT covers the Skill source only
+
 - [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) ![Stars](https://img.shields.io/github/stars/runapi-ai/cli-skill?style=flat-square)
   - Agent skill for generating AI images, videos, and music/audio from Claude Code and compatible SKILL.md agents
   - Also covers JSON-first requests, async polling, and other model API jobs through the RunAPI CLI
